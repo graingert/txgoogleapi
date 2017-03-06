@@ -7,6 +7,11 @@ using the Twisted application framework.
 Currently, very few APIs are actually implemented but adding APIs should be
 rather trivial.
 
+Install
+-------
+
+    pip install txgoogleapi
+
 
 Implemented APIs
 ----------------
